@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://foglar.github.io/my-team-page-devchallenge/">
+    <a href="https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4/team-page-challenge">
       Demo
     </a>
     <span> | </span>
