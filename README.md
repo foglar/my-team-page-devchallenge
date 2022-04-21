@@ -36,14 +36,14 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Simple 404 Error page made in html and css for [Devchallenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) created from [Figma demo](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE).
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+PC and Mobile preview
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![PC-view](pc-view.PNG)
+![mobile-view](mobile-view.PNG)
+
+This one was very easy, but I like it. I learned how use grid, and flex.
 
 ### Built With
 
