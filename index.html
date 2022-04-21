@@ -5,7 +5,7 @@
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1,
-  maximum-scale=5"
+      maximum-scale=5"
     />
 
     <link rel="icon" href="devchallenges.png" />
@@ -21,75 +21,61 @@
       rel="stylesheet"
     />
 
-    <title>Devchallenges</title>
+    <title>My team page / Devchallenge by foglar</title>
 
-    <style>
-      body {
-        font-family: "Poppins", sans-serif;
-      }
-
-      ul {
-        padding-left: 24px;
-      }
-
-      li {
-        margin-bottom: 8px;
-      }
-
-      .welcome {
-        max-width: 800px;
-        margin: 0 auto;
-      }
-
-      .welcome-text {
-        margin-top: 30vh;
-        font-weight: 500;
-      }
-
-      .welcome-text p {
-        font-size: 1rem;
-        font-weight: 400;
-      }
-
-      .welcome-text h1 {
-        font-size: 1.5rem;
-      }
-
-      .welcome-text a {
-        color: #f7542e;
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="welcome">
-      <div class="welcome-text">
-        <h1>
-          Welcome to
-          <a href="https://devchallenges.io/" target="_blank"
-            >devchallenges.io</a
-          >
-        </h1>
-
+    <header>
+      <div class="box">
+        <h1>The creative crew</h1>
+      </div>
+      <div class="box text">
+        <h2>Who we are</h2>
         <p>
-          If you have any questions, don't hesitate to ask on Discord. Here are
-          7 general steps to complete the challenge:
+          We are team of creatively diverse. driven. innovative individuals
+          working in various locations from the world.
         </p>
       </div>
-
-      <ul>
-        <li><b>Step 1:</b> Create a new repository on github</li>
-        <li><b>Step 2:</b> Copy resources, README.md to your repository</li>
-        <li>
-          <b>Step 3:</b> Login to Figma to checkout font, color, spacing,..
-        </li>
-        <li><b>Step 4:</b> Complete all user stories</li>
-        <li><b>Step 5:</b> Update README.md</li>
-        <li><b>Step 6:</b> Deploy your app and submit your solution</li>
-        <li>
-          <b>Step 7:</b> Share your solution on Discord, Twitter and other
-          platforms to ask for feedback
-        </li>
-      </ul>
-    </div>
+    </header>
+    <main>
+      <div class="grid">
+        <figure>
+          <img src="photo1.png" alt="Bill Mahoney" />
+          <figcaption>Bill Mahoney</figcaption>
+          <p class="prof">Product owner</p>
+        </figure>
+        <figure class="middle small-middle">
+          <img src="photo2.png" alt="Saba Cabrera" />
+          <figcaption>Saba Cabrera</figcaption>
+          <p class="prof">Art director</p>
+        </figure>
+        <figure>
+          <img src="photo3.png" alt="Shae Le" />
+          <figcaption>Shae Le</figcaption>
+          <p class="prof">Tech Lead</p>
+        </figure>
+        <figure class="small-middle">
+          <img src="photo4.png" alt="Skylah Lu" />
+          <figcaption>Skylah Lu</figcaption>
+          <p class="prof">UX Designer</p>
+        </figure>
+        <figure class="middle">
+          <img src="photo5.png" alt="Griff Richards" />
+          <figcaption>Griff Richards</figcaption>
+          <p class="prof">Developer</p>
+        </figure>
+        <figure class="small-middle">
+          <img src="photo6.png" alt="Stan John" />
+          <figcaption>Stan John</figcaption>
+          <p class="prof">DEveloper</p>
+        </figure>
+      </div>
+    </main>
+    <footer>
+      <p class="footer">
+        created by <span class="name">foglar</span> - devChallenges.io
+      </p>
+    </footer>
   </body>
 </html>
