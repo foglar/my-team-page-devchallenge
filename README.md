@@ -38,6 +38,8 @@
 
 Simple 404 Error page made in html and css for [Devchallenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) created from [Figma demo](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE).
 
+### EDIT 2/1/2023 : **I know I could do it much more elegantly and better now. What I've done is terrible.**
+
 PC and Mobile preview
 
 ![PC-view](pc-view.PNG)
